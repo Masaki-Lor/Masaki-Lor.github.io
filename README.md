@@ -13,3 +13,11 @@ I am a student learning programming and building projects.
 
 ## Goals
 I want to become a software developer.
+
+---
+
+## Navigation
+
+- [Projects](projects.md)
+- [Future Work](future-work.md)
+- [Contact](contact.md)
