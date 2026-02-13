@@ -1,4 +1,6 @@
-# Hi, I'm Masaki Lor
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+# Masaki Lor
 
 Welcome to my programming portfolio website!
 
