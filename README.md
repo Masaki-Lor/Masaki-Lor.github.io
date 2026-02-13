@@ -15,9 +15,9 @@ I hope to learn how to properly organize data and write efficient queries.
 - SQL
 
 ## Goals
-Build a OOP project
-Build a website 
-Strengthen my SQL knowledge
+- Build a OOP project
+- Build a website 
+- Strengthen my SQL knowledge
 
 ---
 
