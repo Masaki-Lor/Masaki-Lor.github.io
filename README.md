@@ -12,7 +12,7 @@ I hope to learn how to properly organize data and write efficient queries.
 ## Skills
 - Python
 - Java
-- CSS
+- SQL
 
 ## Goals
 Build a OOP project
