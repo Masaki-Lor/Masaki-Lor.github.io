@@ -1,4 +1,4 @@
 # Contact Me
 
-Email: your@email.com  
-GitHub: https://github.com/yourusername
+Email: Lormp8024@uwec.edu  
+GitHub: https://github.com/Masaki-Lor
